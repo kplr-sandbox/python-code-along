@@ -6,9 +6,9 @@ b = 6
 # a=5 b=6
 
 # Imprimer les variables
-print(a)
-print(b)
-print(a+b)
+print("Result :",a)
+print("Result :",b)
+print("Result :",a+b)
 
 
 # 

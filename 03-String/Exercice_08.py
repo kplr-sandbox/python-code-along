@@ -5,8 +5,8 @@ feedback = "A fantastic place!"
 lenght = len(feedback)
 
 #Imprimer la taille de la chaine de caractére
-print(lenght)
+print("Result :",lenght)
 
 # Imprimer le type de la variable
 
-print(type(lenght))
+print("Result :",type(lenght))
