@@ -18,8 +18,7 @@ first_words = feedback[:9]
 Second_words = "working."
 
 # coller deux variables (ou chaines de caractéres)
-print(first_words + Second_words)
+print("Result :",first_words + Second_words)
 
 # Duplicer une chaines de caractéres
-print(Second_words * 2)
-
+print("Result :",Second_words * 2)
